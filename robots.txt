@@ -1,0 +1,4 @@
+User/agent: *
+Disallow:
+
+sitemap:https://vosa321.github.io/projekat1/sitemap.xml
